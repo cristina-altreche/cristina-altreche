@@ -96,7 +96,7 @@
 
 </details> -->
 
-[website]: https://codeSTACKr.com
+[website]: https://lambdaschool.com/hire-from-lambda
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
