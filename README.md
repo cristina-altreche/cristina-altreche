@@ -5,7 +5,7 @@
 
 ## I'm a Mother and Developer from the eastcoast!
 
-- 🔭 I’m currently a student at Lambda: [Full Stack Web Development Track! ][website]!
+- 🔭 I’m currently a student at Lambda: [Full Stack Web Development Track][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Start my career as a Full Stack Developer!
