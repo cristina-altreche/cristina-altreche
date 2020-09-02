@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Start my career as a Full Stack Developer!
-- ⚡ Fun fact: I love coding!
+- ⚡ Fun fact: God > code
 
 ### Connect with me:
 
